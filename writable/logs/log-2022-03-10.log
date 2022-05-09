@@ -1,0 +1,776 @@
+CRITICAL - 2022-03-10 05:35:44 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\codeigniter4\public\index.php(28): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-10 05:36:35 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\codeigniter4\public\index.php(28): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-10 05:38:25 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\codeigniter4\public\index.php(28): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-10 05:38:27 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\codeigniter4\public\index.php(28): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-10 05:38:32 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\codeigniter4\public\index.php(28): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-10 05:38:47 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\codeigniter4\public\index.php(28): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-10 05:38:52 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\codeigniter4\public\index.php(28): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-10 05:38:55 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\codeigniter4\public\index.php(28): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-10 05:40:15 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\codeigniter4\public\index.php(28): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-10 05:40:17 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\codeigniter4\public\index.php(28): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-10 05:40:37 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\codeigniter4\public\index.php(28): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-10 05:43:41 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\codeigniter4\public\index.php(28): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-10 05:44:05 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\codeigniter4\public\index.php(28): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-10 05:46:47 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\ci4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\ci4\public\index.php(28): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-10 05:47:29 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\ci4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\ci4\public\index.php(28): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-10 05:49:35 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 D:\xampp\htdocs\ci4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 D:\xampp\htdocs\ci4\public\index.php(28): require('D:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-03-10 00:00:00 --> Call to undefined method App\Models\UserModel::all
+#0 D:\xampp\htdocs\ci4\app\Controllers\Demo.php(10): CodeIgniter\Model->__call('all', Array)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Demo->index()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Demo))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 01:47:48 --> syntax error, unexpected token "if"
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-03-10 01:48:36 --> syntax error, unexpected token "if"
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-03-10 01:48:43 --> syntax error, unexpected token "if"
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-03-10 01:53:38 --> syntax error, unexpected token "if"
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-03-10 01:53:46 --> syntax error, unexpected token "if"
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-03-10 01:54:09 --> syntax error, unexpected token "if"
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-03-10 01:54:23 --> syntax error, unexpected token "if"
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-03-10 01:54:48 --> syntax error, unexpected token "if"
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-03-10 01:54:54 --> syntax error, unexpected token "if"
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-03-10 01:55:31 --> syntax error, unexpected token "if"
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-03-10 01:55:47 --> syntax error, unexpected token "if"
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-03-10 01:57:27 --> syntax error, unexpected token "if"
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2022-03-10 01:58:11 --> Class "App\Controllers\Api\ResourceController" not found
+#0 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(264): include_once()
+#1 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\ci4\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-10 01:58:26 --> Class "App\Controllers\Api\ResourceController" not found
+#0 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(264): include_once()
+#1 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\ci4\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-10 01:58:51 --> Class "App\Controllers\Api\ResourceController" not found
+#0 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(264): include_once()
+#1 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\ci4\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-10 01:59:14 --> Class "App\Controllers\Api\BaseController" not found
+#0 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(264): include_once()
+#1 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\ci4\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-10 01:59:15 --> Class "App\Controllers\Api\BaseController" not found
+#0 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(264): include_once()
+#1 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\ci4\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-10 01:59:29 --> Class "App\Controllers\Api\Controller" not found
+#0 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(264): include_once()
+#1 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\ci4\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-10 04:06:26 --> Call to a member function getValue() on null
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\ApiController->getUser()
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 04:07:25 --> Call to a member function getValue() on null
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\ApiController->getUser()
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 04:09:04 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::get_headers()
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\ApiController->getUser()
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 04:09:06 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::get_headers()
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\ApiController->getUser()
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 04:09:21 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::get_headers()
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\ApiController->getUser()
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 04:13:39 --> Cannot use object of type stdClass as array
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\ApiController->getUser()
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 04:14:57 --> Expired token
+#0 D:\xampp\htdocs\ci4\app\Controllers\ApiController.php(117): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\ApiController->getUser()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 04:15:20 --> Expired token
+#0 D:\xampp\htdocs\ci4\app\Controllers\ApiController.php(117): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\ApiController->getUser()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 04:15:52 --> Expired token
+#0 D:\xampp\htdocs\ci4\app\Controllers\ApiController.php(117): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\ApiController->getUser()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 04:17:12 --> Expired token
+#0 D:\xampp\htdocs\ci4\app\Controllers\ApiController.php(117): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\ApiController->getUser()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 04:53:38 --> BasicauthFilter filter must have a matching alias defined.
+#0 D:\xampp\htdocs\ci4\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('BasicauthFilter')
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('BasicauthFilter', 'before')
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 04:53:58 --> BasicauthFilter filter must have a matching alias defined.
+#0 D:\xampp\htdocs\ci4\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('BasicauthFilter')
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('BasicauthFilter', 'before')
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 04:56:33 --> Call to a member function getValue() on null
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\ApiController->getUser()
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 04:56:48 --> Call to a member function getValue() on null
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\ApiController->getUser()
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 04:57:05 --> Expired token
+#0 D:\xampp\htdocs\ci4\app\Controllers\ApiController.php(143): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\ApiController->getUser()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 05:00:18 --> BasicauthFilter filter must have a matching alias defined.
+#0 D:\xampp\htdocs\ci4\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('BasicauthFilter')
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('BasicauthFilter', 'before')
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 05:00:21 --> BasicauthFilter filter must have a matching alias defined.
+#0 D:\xampp\htdocs\ci4\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('BasicauthFilter')
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('BasicauthFilter', 'before')
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 05:00:28 --> Expired token
+#0 D:\xampp\htdocs\ci4\app\Controllers\ApiController.php(143): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\ApiController->getUser()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 05:04:19 --> BasicauthFilter filter must have a matching alias defined.
+#0 D:\xampp\htdocs\ci4\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('BasicauthFilter')
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('BasicauthFilter', 'before')
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 05:06:18 --> BasicauthFilter filter must have a matching alias defined.
+#0 D:\xampp\htdocs\ci4\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('BasicauthFilter')
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('BasicauthFilter', 'before')
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 05:06:27 --> Expired token
+#0 D:\xampp\htdocs\ci4\app\Controllers\ApiController.php(143): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\ApiController->getUser()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 05:06:45 --> BasicauthFilter filter must have a matching alias defined.
+#0 D:\xampp\htdocs\ci4\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('BasicauthFilter')
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('BasicauthFilter', 'before')
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 05:07:09 --> BasicauthFilter filter must have a matching alias defined.
+#0 D:\xampp\htdocs\ci4\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('BasicauthFilter')
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('BasicauthFilter', 'before')
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 05:07:17 --> BasicauthFilter filter must have a matching alias defined.
+#0 D:\xampp\htdocs\ci4\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('BasicauthFilter')
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('BasicauthFilter', 'before')
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 05:07:31 --> BasicauthFilter filter must have a matching alias defined.
+#0 D:\xampp\htdocs\ci4\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('BasicauthFilter')
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('BasicauthFilter', 'before')
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 05:08:50 --> BasicauthFilter filter must have a matching alias defined.
+#0 D:\xampp\htdocs\ci4\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('BasicauthFilter')
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('BasicauthFilter', 'before')
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 05:08:57 --> BasicauthFilter filter must have a matching alias defined.
+#0 D:\xampp\htdocs\ci4\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('BasicauthFilter')
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('BasicauthFilter', 'before')
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 05:09:01 --> Expired token
+#0 D:\xampp\htdocs\ci4\app\Controllers\ApiController.php(143): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\ApiController->getUser()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 05:10:21 --> BasicauthFilter filter must have a matching alias defined.
+#0 D:\xampp\htdocs\ci4\system\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('BasicauthFilter')
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->enableFilter('BasicauthFilter', 'before')
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 05:28:02 --> $keyOrKeyArray must be an instance of Firebase\JWT\Key key or an array of Firebase\JWT\Key keys
+#0 D:\xampp\htdocs\ci4\vendor\firebase\php-jwt\src\JWT.php(114): Firebase\JWT\JWT::getKey('examplesecureke...', NULL)
+#1 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(36): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', 'examplesecureke...', Array)
+#2 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-10 05:28:19 --> $keyOrKeyArray must be an instance of Firebase\JWT\Key key or an array of Firebase\JWT\Key keys
+#0 D:\xampp\htdocs\ci4\vendor\firebase\php-jwt\src\JWT.php(114): Firebase\JWT\JWT::getKey('examplesecureke...', NULL)
+#1 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(36): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', 'examplesecureke...', Array)
+#2 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-10 05:29:27 --> syntax error, unexpected token "}"
+#0 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Filters\\Bas...')
+#2 D:\xampp\htdocs\ci4\system\Filters\Filters.php(166): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Filters\\Bas...')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-10 05:29:32 --> syntax error, unexpected token "}"
+#0 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Filters\\Bas...')
+#2 D:\xampp\htdocs\ci4\system\Filters\Filters.php(166): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Filters\\Bas...')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-10 05:29:37 --> syntax error, unexpected token "}"
+#0 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Filters\\Bas...')
+#2 D:\xampp\htdocs\ci4\system\Filters\Filters.php(166): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Filters\\Bas...')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-10 05:30:09 --> syntax error, unexpected token "}"
+#0 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Filters\\Bas...')
+#2 D:\xampp\htdocs\ci4\system\Filters\Filters.php(166): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Filters\\Bas...')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-10 05:30:11 --> syntax error, unexpected token "}"
+#0 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Filters\\Bas...')
+#2 D:\xampp\htdocs\ci4\system\Filters\Filters.php(166): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Filters\\Bas...')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-10 05:30:54 --> Call to a member function getValue() on null
+#0 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 05:31:13 --> Call to a member function getValue() on null
+#0 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 05:31:44 --> Call to a member function getValue() on null
+#0 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 05:31:55 --> Call to a member function getValue() on null
+#0 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 05:33:49 --> Call to a member function getValue() on null
+#0 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 05:39:55 --> Call to a member function getValue() on null
+#0 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 05:40:25 --> Call to a member function getValue() on null
+#0 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 05:40:35 --> Call to a member function getValue() on null
+#0 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 06:08:56 --> Expired token
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(42): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 06:09:30 --> Expired token
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(42): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 06:10:12 --> Expired token
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(42): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 06:11:28 --> Expired token
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(42): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 06:42:19 --> Expired token
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(42): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user/5', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 06:42:34 --> Expired token
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(42): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user/5', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 06:42:40 --> Expired token
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(42): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user/5', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 06:42:47 --> Expired token
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(42): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user/5', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 06:47:58 --> Expired token
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(42): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user/5', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 06:48:20 --> Expired token
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(42): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user/5', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 06:48:28 --> Expired token
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(42): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user/5', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 06:48:40 --> Expired token
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(42): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 06:52:50 --> Expired token
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(42): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 07:25:10 --> Expired token
+#0 D:\xampp\htdocs\ci4\app\Controllers\ApiController.php(139): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\ApiController->getUser()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 07:25:34 --> Call to a member function getValue() on null
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\ApiController->getUser()
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 07:27:02 --> Expired token
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(42): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 07:29:40 --> Signature verification failed
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(42): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 07:30:39 --> Signature verification failed
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(42): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 07:31:03 --> Expired token
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(42): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 07:34:23 --> Expired token
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(42): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user/6', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 07:43:42 --> Expired token
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(43): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 07:44:11 --> Call to undefined function App\Controllers\jwt_token()
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 07:44:41 --> Call to undefined function App\Controllers\jwt_token()
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 07:45:33 --> Call to undefined function App\Controllers\jwt_token()
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\UserController->index()
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 22:17:40 --> Call to undefined function App\Controllers\common_helper()
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\ApiController->login()
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 22:19:14 --> Call to undefined function App\Controllers\Jwt_helper()
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\ApiController->login()
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ApiController))
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-10 22:30:33 --> Expired token
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(43): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 23:00:58 --> Type error: $keyMaterial must be a string, resource, or OpenSSLAsymmetricKey
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(43): Firebase\JWT\Key->__construct(false, 'HS256')
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 23:01:14 --> Type error: $keyMaterial must be a string, resource, or OpenSSLAsymmetricKey
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(43): Firebase\JWT\Key->__construct(false, 'HS256')
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 23:01:35 --> Type error: $keyMaterial must be a string, resource, or OpenSSLAsymmetricKey
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(43): Firebase\JWT\Key->__construct(false, 'HS256')
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 23:15:38 --> Type error: $keyMaterial must be a string, resource, or OpenSSLAsymmetricKey
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(43): Firebase\JWT\Key->__construct(false, 'HS256')
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 23:15:48 --> Type error: $keyMaterial must be a string, resource, or OpenSSLAsymmetricKey
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(43): Firebase\JWT\Key->__construct(false, 'HS256')
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 23:21:41 --> Array to string conversion
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'D:\\xampp\\htdocs...', 33)
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 23:21:52 --> Array to string conversion
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'D:\\xampp\\htdocs...', 32)
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 23:26:03 --> Undefined array key "JWT_SECRET"
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 33)
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 23:26:47 --> Undefined array key "JWT_SECRET"
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 33)
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 23:32:57 --> Signature verification failed
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(43): Firebase\JWT\JWT::decode('eyJ0eXAiOiJKV1Q...', Object(Firebase\JWT\Key))
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 23:38:07 --> print_r() expects at least 1 argument, 0 given
+#0 D:\xampp\htdocs\ci4\app\Filters\BasicauthFilter.php(45): print_r()
+#1 D:\xampp\htdocs\ci4\system\Filters\Filters.php(173): App\Filters\BasicauthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(393): CodeIgniter\Filters\Filters->run('api/user', 'before')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-10 23:47:28 --> Array to string conversion
+#0 D:\xampp\htdocs\ci4\system\HTTP\ResponseTrait.php(485): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'D:\\xampp\\htdocs...', 485)
+#1 D:\xampp\htdocs\ci4\system\HTTP\ResponseTrait.php(444): CodeIgniter\HTTP\Response->sendBody()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(398): CodeIgniter\HTTP\Response->send()
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

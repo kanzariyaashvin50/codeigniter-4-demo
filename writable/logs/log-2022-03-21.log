@@ -1,0 +1,222 @@
+CRITICAL - 2022-03-21 00:59:29 --> Too few arguments to function CodeIgniter\HTTP\IncomingRequest::getFile(), 0 passed in D:\xampp\htdocs\ci4\app\Controllers\admin\ProfileController.php on line 21 and exactly 1 expected
+#0 D:\xampp\htdocs\ci4\app\Controllers\admin\ProfileController.php(21): CodeIgniter\HTTP\IncomingRequest->getFile()
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\ProfileController->updateProfile()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProfileController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-21 01:00:02 --> Too few arguments to function App\Controllers\Admin\ProfileController::updateProfile(), 0 passed in D:\xampp\htdocs\ci4\system\CodeIgniter.php on line 832 and exactly 1 expected
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\ProfileController->updateProfile()
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProfileController))
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-21 02:21:49 --> syntax error, unexpected variable "$model"
+#0 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-21 02:22:06 --> syntax error, unexpected variable "$model"
+#0 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-21 02:22:09 --> syntax error, unexpected variable "$model"
+#0 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-21 02:22:20 --> syntax error, unexpected token "}"
+#0 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-21 02:23:23 --> Too few arguments to function CodeIgniter\BaseModel::save(), 0 passed in D:\xampp\htdocs\ci4\app\Controllers\admin\ProfileController.php on line 36 and exactly 1 expected
+#0 D:\xampp\htdocs\ci4\app\Controllers\admin\ProfileController.php(36): CodeIgniter\BaseModel->save()
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\ProfileController->updateProfile()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProfileController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-21 02:25:42 --> There is no data to update.
+#0 D:\xampp\htdocs\ci4\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 D:\xampp\htdocs\ci4\system\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(NULL, 'update')
+#2 D:\xampp\htdocs\ci4\system\Model.php(651): CodeIgniter\BaseModel->update(Array, NULL)
+#3 D:\xampp\htdocs\ci4\app\Controllers\admin\ProfileController.php(39): CodeIgniter\Model->update(Array)
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\ProfileController->updateProfile()
+#5 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProfileController))
+#6 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-21 02:28:08 --> syntax error, unexpected variable "$adminModel"
+#0 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-21 02:28:36 --> syntax error, unexpected token "}"
+#0 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-21 02:28:44 --> Allowed fields must be specified for model: App\Models\AdminModel
+#0 D:\xampp\htdocs\ci4\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Admi...')
+#1 D:\xampp\htdocs\ci4\system\BaseModel.php(841): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 D:\xampp\htdocs\ci4\system\Model.php(651): CodeIgniter\BaseModel->update(Array, Array)
+#3 D:\xampp\htdocs\ci4\app\Controllers\admin\ProfileController.php(38): CodeIgniter\Model->update('1', Array)
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\ProfileController->updateProfile()
+#5 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProfileController))
+#6 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-21 02:31:52 --> Allowed fields must be specified for model: App\Models\AdminModel
+#0 D:\xampp\htdocs\ci4\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Admi...')
+#1 D:\xampp\htdocs\ci4\system\BaseModel.php(841): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 D:\xampp\htdocs\ci4\system\Model.php(651): CodeIgniter\BaseModel->update(Array, Array)
+#3 D:\xampp\htdocs\ci4\app\Controllers\admin\ProfileController.php(42): CodeIgniter\Model->update('1', Array)
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\ProfileController->updateProfile()
+#5 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProfileController))
+#6 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-21 02:32:58 --> Allowed fields must be specified for model: App\Models\AdminModel
+#0 D:\xampp\htdocs\ci4\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Admi...')
+#1 D:\xampp\htdocs\ci4\system\BaseModel.php(841): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 D:\xampp\htdocs\ci4\system\Model.php(651): CodeIgniter\BaseModel->update(Array, Array)
+#3 D:\xampp\htdocs\ci4\app\Controllers\admin\ProfileController.php(42): CodeIgniter\Model->update('1', Array)
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\ProfileController->updateProfile()
+#5 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProfileController))
+#6 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-21 02:35:49 --> Allowed fields must be specified for model: App\Models\AdminModel
+#0 D:\xampp\htdocs\ci4\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Admi...')
+#1 D:\xampp\htdocs\ci4\system\BaseModel.php(841): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 D:\xampp\htdocs\ci4\system\Model.php(651): CodeIgniter\BaseModel->update(Array, Array)
+#3 D:\xampp\htdocs\ci4\app\Controllers\admin\ProfileController.php(36): CodeIgniter\Model->update('1', Array)
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\ProfileController->updateProfile()
+#5 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProfileController))
+#6 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-21 02:36:53 --> Allowed fields must be specified for model: App\Models\AdminModel
+#0 D:\xampp\htdocs\ci4\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Admi...')
+#1 D:\xampp\htdocs\ci4\system\BaseModel.php(841): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 D:\xampp\htdocs\ci4\system\Model.php(651): CodeIgniter\BaseModel->update(Array, Array)
+#3 D:\xampp\htdocs\ci4\app\Controllers\admin\ProfileController.php(36): CodeIgniter\Model->update('1', Array)
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\ProfileController->updateProfile()
+#5 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProfileController))
+#6 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-21 02:39:19 --> Allowed fields must be specified for model: App\Models\AdminModel
+#0 D:\xampp\htdocs\ci4\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Admi...')
+#1 D:\xampp\htdocs\ci4\system\BaseModel.php(841): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 D:\xampp\htdocs\ci4\system\Model.php(651): CodeIgniter\BaseModel->update(Array, Array)
+#3 D:\xampp\htdocs\ci4\app\Controllers\admin\ProfileController.php(36): CodeIgniter\Model->update(1, Array)
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\ProfileController->updateProfile()
+#5 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProfileController))
+#6 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-21 02:40:33 --> Allowed fields must be specified for model: App\Models\AdminModel
+#0 D:\xampp\htdocs\ci4\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Admi...')
+#1 D:\xampp\htdocs\ci4\system\BaseModel.php(841): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 D:\xampp\htdocs\ci4\system\Model.php(651): CodeIgniter\BaseModel->update(Array, Array)
+#3 D:\xampp\htdocs\ci4\app\Controllers\admin\ProfileController.php(36): CodeIgniter\Model->update(1, Array)
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\ProfileController->updateProfile()
+#5 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProfileController))
+#6 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-21 02:40:54 --> Allowed fields must be specified for model: App\Models\AdminModel
+#0 D:\xampp\htdocs\ci4\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Admi...')
+#1 D:\xampp\htdocs\ci4\system\BaseModel.php(841): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 D:\xampp\htdocs\ci4\system\Model.php(651): CodeIgniter\BaseModel->update(Array, Array)
+#3 D:\xampp\htdocs\ci4\app\Controllers\admin\ProfileController.php(36): CodeIgniter\Model->update(1, Array)
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\ProfileController->updateProfile()
+#5 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProfileController))
+#6 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-21 02:44:00 --> Undefined variable $id
+#0 D:\xampp\htdocs\ci4\app\Controllers\admin\ProfileController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'D:\\xampp\\htdocs...', 41)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\ProfileController->updateProfile()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProfileController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-21 02:44:57 --> Allowed fields must be specified for model: App\Models\AdminModel
+#0 D:\xampp\htdocs\ci4\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Admi...')
+#1 D:\xampp\htdocs\ci4\system\BaseModel.php(841): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 D:\xampp\htdocs\ci4\system\Model.php(651): CodeIgniter\BaseModel->update(Array, Array)
+#3 D:\xampp\htdocs\ci4\app\Controllers\admin\ProfileController.php(41): CodeIgniter\Model->update('1', Array)
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\ProfileController->updateProfile()
+#5 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProfileController))
+#6 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-21 02:45:13 --> Allowed fields must be specified for model: App\Models\AdminModel
+#0 D:\xampp\htdocs\ci4\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Admi...')
+#1 D:\xampp\htdocs\ci4\system\BaseModel.php(841): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 D:\xampp\htdocs\ci4\system\Model.php(651): CodeIgniter\BaseModel->update(Array, Array)
+#3 D:\xampp\htdocs\ci4\app\Controllers\admin\ProfileController.php(41): CodeIgniter\Model->update(1, Array)
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\ProfileController->updateProfile()
+#5 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProfileController))
+#6 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-21 02:47:11 --> Allowed fields must be specified for model: App\Models\AdminModel
+#0 D:\xampp\htdocs\ci4\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Admi...')
+#1 D:\xampp\htdocs\ci4\system\BaseModel.php(841): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 D:\xampp\htdocs\ci4\system\Model.php(651): CodeIgniter\BaseModel->update(Array, Array)
+#3 D:\xampp\htdocs\ci4\app\Controllers\admin\ProfileController.php(27): CodeIgniter\Model->update(1, Array)
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\ProfileController->index()
+#5 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProfileController))
+#6 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-03-21 02:56:00 --> There is no data to update.
+#0 D:\xampp\htdocs\ci4\system\BaseModel.php(846): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 D:\xampp\htdocs\ci4\system\Model.php(651): CodeIgniter\BaseModel->update(Array, Array)
+#2 D:\xampp\htdocs\ci4\app\Controllers\admin\ProfileController.php(39): CodeIgniter\Model->update('1', Array)
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\ProfileController->updateProfile()
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProfileController))
+#5 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-21 02:56:54 --> Call to undefined method App\Controllers\Admin\ProfileController::respondCreated()
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\ProfileController->updateProfile()
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProfileController))
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-21 03:49:40 --> Call to undefined method App\Controllers\Admin\ProfileController::respondCreated()
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\ProfileController->updateProfile()
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\ProfileController))
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

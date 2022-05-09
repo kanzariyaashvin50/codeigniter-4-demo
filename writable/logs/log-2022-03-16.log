@@ -1,0 +1,182 @@
+CRITICAL - 2022-03-16 00:21:40 --> Undefined property: App\Controllers\Admin\UsersController::$db
+#0 D:\xampp\htdocs\ci4\app\Controllers\admin\UsersController.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 41)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\UsersController->index()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UsersController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 00:22:58 --> Undefined property: App\Controllers\Admin\UsersController::$db
+#0 D:\xampp\htdocs\ci4\app\Controllers\admin\UsersController.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 36)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\UsersController->index()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UsersController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 00:23:05 --> Undefined property: App\Controllers\Admin\UsersController::$db
+#0 D:\xampp\htdocs\ci4\app\Controllers\admin\UsersController.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 36)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\UsersController->index()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UsersController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 00:23:06 --> Undefined property: App\Controllers\Admin\UsersController::$db
+#0 D:\xampp\htdocs\ci4\app\Controllers\admin\UsersController.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 36)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\UsersController->index()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UsersController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 00:23:18 --> Undefined property: App\Controllers\Admin\UsersController::$db
+#0 D:\xampp\htdocs\ci4\app\Controllers\admin\UsersController.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 45)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\UsersController->index()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UsersController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 00:25:31 --> Undefined property: App\Controllers\Admin\UsersController::$db
+#0 D:\xampp\htdocs\ci4\app\Controllers\admin\UsersController.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 36)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\UsersController->index()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UsersController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 00:25:47 --> Undefined property: App\Controllers\Admin\UsersController::$db
+#0 D:\xampp\htdocs\ci4\app\Controllers\admin\UsersController.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 36)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\UsersController->index()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UsersController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 00:27:30 --> Undefined property: App\Controllers\Admin\UsersController::$db
+#0 D:\xampp\htdocs\ci4\app\Controllers\admin\UsersController.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 36)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\UsersController->index()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UsersController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 00:28:34 --> Undefined property: App\Controllers\Admin\UsersController::$db
+#0 D:\xampp\htdocs\ci4\app\Controllers\admin\UsersController.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 37)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\UsersController->index()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UsersController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 00:30:26 --> Undefined property: App\Controllers\Admin\UsersController::$db
+#0 D:\xampp\htdocs\ci4\app\Controllers\admin\UsersController.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'D:\\xampp\\htdocs...', 38)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\UsersController->index()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UsersController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 00:33:14 --> Array to string conversion
+#0 D:\xampp\htdocs\ci4\app\Controllers\admin\UsersController.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'D:\\xampp\\htdocs...', 42)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\UsersController->index()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UsersController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 00:34:16 --> Cannot use object of type stdClass as array
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\UsersController->index()
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UsersController))
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-16 00:34:54 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::fetchAll()
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\UsersController->index()
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UsersController))
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-16 00:38:30 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::fetchAll()
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\UsersController->index()
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UsersController))
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-16 00:41:39 --> Undefined array key "status"
+#0 D:\xampp\htdocs\ci4\app\Controllers\admin\UsersController.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 62)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\UsersController->index()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UsersController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 00:42:03 --> Undefined array key "status"
+#0 D:\xampp\htdocs\ci4\app\Controllers\admin\UsersController.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 62)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\UsersController->index()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UsersController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 00:42:21 --> Undefined array key "status"
+#0 D:\xampp\htdocs\ci4\app\Controllers\admin\UsersController.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 62)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\UsersController->index()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UsersController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 00:43:42 --> Cannot use object of type stdClass as array
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\UsersController->index()
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UsersController))
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-16 02:52:15 --> Declaration of App\Controllers\Admin\UsersController::edit() must be compatible with CodeIgniter\RESTful\ResourceController::edit($id = null)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-16 05:24:25 --> Call to undefined method App\Controllers\Admin\UsersController::respondCreated()
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\UsersController->delete()
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UsersController))
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-16 05:26:01 --> Call to undefined method App\Controllers\Admin\UsersController::respondCreated()
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\UsersController->delete()
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UsersController))
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-16 05:27:51 --> Call to undefined method App\Controllers\Admin\UsersController::respondCreated()
+#0 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\UsersController->delete()
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UsersController))
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-16 06:43:01 --> syntax error, unexpected token ";", expecting "]"
+#0 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-16 06:43:15 --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-16 06:43:19 --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-16 06:43:38 --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-16 06:44:23 --> Unclosed '[' on line 152 does not match ')'
+#0 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\ci4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 D:\xampp\htdocs\ci4\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-16 06:44:37 --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-16 06:45:43 --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-16 06:46:04 --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-03-16 06:47:40 --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}

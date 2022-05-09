@@ -1,0 +1,14 @@
+CRITICAL - 2022-03-13 23:32:57 --> Undefined array key "status"
+#0 D:\xampp\htdocs\ci4\app\Controllers\admin\UsersController.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 43)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\UsersController->index()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UsersController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-13 23:33:43 --> Undefined array key "status"
+#0 D:\xampp\htdocs\ci4\app\Controllers\admin\UsersController.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'D:\\xampp\\htdocs...', 43)
+#1 D:\xampp\htdocs\ci4\system\CodeIgniter.php(832): App\Controllers\Admin\UsersController->index()
+#2 D:\xampp\htdocs\ci4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\UsersController))
+#3 D:\xampp\htdocs\ci4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\ci4\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
